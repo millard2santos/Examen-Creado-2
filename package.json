@@ -1,0 +1,25 @@
+{
+  "name": "examen-creado-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+
+    "watch": "npx tailwindcss -i ./style.css -o ./output.css --watch",
+    "build": "npx tailwindcss -i ./style.css -o ./output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millard2santos/Examen-Creado-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millard2santos/Examen-Creado-2/issues"
+  },
+  "homepage": "https://github.com/millard2santos/Examen-Creado-2#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
